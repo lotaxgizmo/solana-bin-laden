@@ -9,21 +9,21 @@ import thefirst from '../assets/thefirst.svg'
 import blockchain from '../assets/blockchain.svg'
 import chainss from '../assets/2chains.svg'
 
-function Firstterrorist() {
+function Thpart() {
     return (
         <div className='flex flex-col items-center justify-center'>
 
             <div className="black bg-black/90 w-10/12 flex flex-col  rounded-xl justify-start align-top items-start">
                 <img src={chains} alt="" />
 
-                <div className="divide flex lg:flex-row flex-col justify-start align-top items-start">
+                <div className="divide flex flex-row justify-start align-top items-start">
                     <div className="firsthalf">
                         <img src={bazooka} className='mt-[-230px]' alt="" />
                         <img src={grenade} alt="" />
                         <img src={ak47} className='mt-[-230px]' alt="" />
                     </div>
 
-                    <div className="secondhalf p-4 ">
+                    <div className="secondhalf p-4">
                         <img src={thefirst} className='mb-14' alt="" />
                         <img src={terrorist} className='mb-14' alt="" />
                         <img src={blockchain} className='mb-14' alt="" />
@@ -37,4 +37,4 @@ function Firstterrorist() {
     )
 }
 
-export default Firstterrorist
+export default Thpart

@@ -1,8 +1,12 @@
 import React from 'react'
+import join from '../assets/join.svg'
+
 
 function Join() {
     return (
-        <div>Join</div>
+        <div className='flex flex-col items-center'>
+            <img src={join} alt="" />
+        </div>
     )
 }
 
