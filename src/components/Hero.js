@@ -15,7 +15,7 @@ import chains from '../assets/2chains.svg'
 
 function Hero() {
     return (
-        <div className='flex flex-col items-center overflow'>
+        <div className='flex flex-col items-center overflow z-[3]'>
 
             <img src={boxish} className='sw-[900px] absolute' alt="" />
             <img src={cave} className='w-[1500px] absolute' alt="" />

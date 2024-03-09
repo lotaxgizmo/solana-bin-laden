@@ -14,7 +14,7 @@ import twochainsinss from '../assets/twochains.svg'
 
 function Fourpart() {
     return (
-        <div className='flex flex-col items-center justify-center'>
+        <div className='flex flex-col items-center justify-center z-[3]'>
 
             <div className="overflow-clip relative black bg-black/50 w-10/12 flex flex-col  rounded-xl justify-start align-top items-start">
                 <img src={twochainsinss} className='absolute' alt="" />

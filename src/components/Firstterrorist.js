@@ -11,7 +11,7 @@ import chainss from '../assets/2chains.svg'
 
 function Firstterrorist() {
     return (
-        <div className='flex flex-col items-center justify-center'>
+        <div className='flex flex-col items-center justify-center z-[3]'>
 
             <div className="black bg-black/90 w-10/12 flex flex-col  rounded-xl justify-start align-top items-start">
                 <img src={chains} alt="" />

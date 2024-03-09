@@ -8,7 +8,7 @@ import boomnowblack from '../assets/boomnowblack.svg'
 
 function Tokenomics() {
     return (
-        <div className='flex flex-col items-center'>
+        <div className='flex flex-col items-center z-[3]'>
             <img src={tokenomics} alt="" />
 
             <div className="overflow-clip relative black bg-black/50 w-10/12 flex flex-col  rounded-xl items-center">
