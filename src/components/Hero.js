@@ -35,7 +35,7 @@ function Hero() {
                         <img src={boomnow} className='w-[400px] lg:w-auto ' alt="" />
                     </a>
 
-                    <a href="http://" target="_blank" rel="noopener noreferrer">
+                    <a href="https://t.me/solanabinladen" target="_blank" rel="noopener noreferrer">
                         <img src={telegram} className='w-[400px] lg:w-auto ' alt="" />
                     </a>
 
