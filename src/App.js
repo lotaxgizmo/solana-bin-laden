@@ -8,7 +8,7 @@ import noise from './assets/noise.svg'
 function App() {
   return (
     <div className="flex flex-col relative overflow-clip">
-      <img src={noise} alt="" className="absolute z-[1] " />
+      <img src={noise} alt="" className="fixed z-[1] " />
       <Hero />
       <Firstterrorist />
       <Join />

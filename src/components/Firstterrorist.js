@@ -27,7 +27,9 @@ function Firstterrorist() {
                         <img src={thefirst} className='mb-14' alt="" />
                         <img src={terrorist} className='mb-14' alt="" />
                         <img src={blockchain} className='mb-14' alt="" />
-                        <img src={boomnow2} alt="" />
+                        <a href="https://raydium.io/swap/?inputCurrency=sol&outputCurrency=3mHRcFGPwXexeKjneCRPzjsB9L4uiKJntyRcG6kUhiYR&fixed=in" target="_blank" rel="noopener noreferrer">
+                            <img src={boomnow2} alt="" />
+                        </a>
                     </div>
                 </div>
 

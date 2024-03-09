@@ -31,8 +31,14 @@ function Hero() {
                 </div>
 
                 <div className="gun flex lg:flex-row flex-col w-[800px] items-center align-middle justify-between ">
-                    <img src={boomnow} className='w-[400px] lg:w-auto ' alt="" />
-                    <img src={telegram} className='w-[400px] lg:w-auto ' alt="" />
+                    <a href="https://raydium.io/swap/?inputCurrency=sol&outputCurrency=3mHRcFGPwXexeKjneCRPzjsB9L4uiKJntyRcG6kUhiYR&fixed=in" target="_blank" rel="noopener noreferrer">
+                        <img src={boomnow} className='w-[400px] lg:w-auto ' alt="" />
+                    </a>
+
+                    <a href="http://" target="_blank" rel="noopener noreferrer">
+                        <img src={telegram} className='w-[400px] lg:w-auto ' alt="" />
+                    </a>
+
                 </div>
 
                 <img src={chains} className='sw-[400px] ' alt="" />

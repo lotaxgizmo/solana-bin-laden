@@ -18,7 +18,10 @@ function Tokenomics() {
                     <img src={tax} alt="" className='m-5' />
                     <img src={lp} alt="" className='m-5' />
                 </div>
-                <img src={boomnowblack} alt="" className='my-5' />
+                <a href="https://raydium.io/swap/?inputCurrency=sol&outputCurrency=3mHRcFGPwXexeKjneCRPzjsB9L4uiKJntyRcG6kUhiYR&fixed=in" target="_blank" rel="noopener noreferrer">
+
+                    <img src={boomnowblack} alt="" className='my-5' />
+                </a>
             </div>
         </div>
     )

@@ -25,7 +25,7 @@ function Fourpart() {
                         <img src={grenade} alt="" />
                         <img src={ak47} className='mt-[-130px]' alt="" />
                         <p className='text-3xl text-[#B0D99A] lg:ml-10 lg:w-[500px] mt-[-130px] '>
-                            a cryptocurrency memecoin for aircraft and architecture enthusiasts. Join our cause and fly with us to new heights and beyond. The sky is the limit, and nothing will stop us, Allah willing.
+                            A cryptocurrency memecoin for aircraft and architecture enthusiasts. Join our cause and fly with us to new heights and beyond. The sky is the limit, and nothing will stop us, Allah willing.
                         </p>
                     </div>
 
@@ -33,7 +33,10 @@ function Fourpart() {
                         <img src={thefirst} className='mb-14' alt="" />
                         <img src={terrorist} className='mb-14' alt="" />
                         <img src={blockchain} className='mb-14' alt="" />
-                        <img src={boomnow2} alt="" />
+                        <a href="https://raydium.io/swap/?inputCurrency=sol&outputCurrency=3mHRcFGPwXexeKjneCRPzjsB9L4uiKJntyRcG6kUhiYR&fixed=in" target="_blank" rel="noopener noreferrer">
+
+                            <img src={boomnow2} alt="" />
+                        </a>
                     </div>
                 </div>
 
