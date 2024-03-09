@@ -4,6 +4,7 @@ import lp from '../assets/lp.svg'
 import tax from '../assets/tax.svg'
 import supply from '../assets/supply.svg'
 import boomnowblack from '../assets/boomnowblack.svg'
+import burnperc from '../assets/burnperc.svg'
 
 
 function Tokenomics() {
@@ -13,6 +14,7 @@ function Tokenomics() {
 
             <div className="overflow-clip relative black bg-black/50 w-10/12 flex flex-col  rounded-xl items-center">
                 <img src={supply} className='my-5' alt="" />
+                <img src={burnperc} className='my-5' alt="" />
 
                 <div className="together flex flex-col lg:flex-row justify-between">
                     <img src={tax} alt="" className='m-5' />
